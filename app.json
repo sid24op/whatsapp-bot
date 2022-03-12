@@ -5,7 +5,7 @@
         "whatsapp",
         "bot"
     ],
-    "repository": "https://github.com/sid24op/whatsapp-bot",
+
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
